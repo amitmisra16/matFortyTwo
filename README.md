@@ -9,8 +9,8 @@ with two separate navigation stacks. One at root level and one (with title
 and sidenav) accessible only after having logged in. It also packs a lot
 of perks to help you kickstart your Angular project in a matter of minutes!
 
-Angular CLI Version: 8.0.1 \
-Angular Material Version: 8.0.0
+Angular CLI Version: 9.1.5 \
+Angular Material Version: 9.1.3
 
 ## Perks
  - **Navigation Flow and guarded access for Pages**
